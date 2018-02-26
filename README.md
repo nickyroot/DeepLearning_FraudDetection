@@ -1,5 +1,7 @@
 # DeepLearning_FraudDetection
 
+Author: Nick Root
+
 The data set is available on Kaggle for download - https://www.kaggle.com/dalpozz/creditcardfraud
 
 In summary, it contains 284,807 credit card transactions over 48 hours. It totally contains two types of transactons - fraud and genuine - inside the label column named 'Class'
