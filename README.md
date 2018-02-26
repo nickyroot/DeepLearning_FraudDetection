@@ -1,6 +1,6 @@
 # DeepLearning_FraudDetection
 
-Author: Nick Root
+*Author: Nick Root*
 
 The data set is available on Kaggle for download - https://www.kaggle.com/dalpozz/creditcardfraud
 
